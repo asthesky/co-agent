@@ -1,4 +1,5 @@
 # co-agent
+[![Build Status](https://travis-ci.org/asthesky/co-agent.svg?branch=master)](https://travis-ci.org/asthesky/co-agent)
 
 in co warp deal with asynchronous concurrency
 
